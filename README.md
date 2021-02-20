@@ -2,15 +2,4 @@
 
 That's a simple BMI calculation application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home screen](https://user-images.githubusercontent.com/75753499/108600509-b9eafe80-73c1-11eb-9c54-215ac41d14e5.jpg)
